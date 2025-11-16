@@ -1,0 +1,14 @@
+title: Kyle Pace
+description: My apps and projects
+baseurl: ""
+url: "https://app.kylepace.net"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
