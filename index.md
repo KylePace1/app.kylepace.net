@@ -5,6 +5,8 @@ title: Home
 
 # Hello World
 
-This is the most basic Jekyll site possible.
+Hello love <3
 
-Check out the [About page](about).
+Many loves
+
+Many gays >3
